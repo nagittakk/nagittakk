@@ -10,7 +10,7 @@ I'm a Process Engineer in the mining industry with a deep passion for data analy
 - 💬 **Ask me about**: My background as a Process Engineer in the mining industry and my journey into big data and tech! 
 
 ### 🔗 My Data Analytics Portfolio
-Check out my [Data Analytics Portfolio](https://github.com/nagittakk/data-analytics-portfolio) to explore my projects and see the work I’m doing in data analysis, visualization, and engineering!
+Check out my [Data Analytics Portfolio](https://nagittakk.github.io/data-analytics-portfolio/) to explore my projects and see the work I’m doing in data analysis, visualization, and engineering!
 
 ### 🎓 Education
 - **Bachelor's of Engineering in Chemical Engineering** (2020)
