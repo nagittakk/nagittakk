@@ -11,7 +11,7 @@ As a dedicated Process Engineer with over four years of experience in process en
 * ✉️  You can contact me at [nagittak@gmail.com](mailto:nagittak@gmail.com)
 * 🧠  I'm learning Exploring cloud computing platforms and aiming to attain an MS Azure certification in Data Engineering.
 * 🤝  I'm open to collaborating on Fun and innovative projects that challenge my skills and expand my knowledge.
-* ⚡  I love producing music in my spare time and am a classically trained percussionist (drummer 😉).
+* ⚡  I love producing music in my spare time and am drummer and self taugh guitarist😉.
 
 ### Skills
 
@@ -33,6 +33,3 @@ As a dedicated Process Engineer with over four years of experience in process en
 
 <a href="https://github.com/nagittakk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagittakk&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/nagittakk/data-analytics-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nagittakk&repo=data-analytics-portfolio&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
