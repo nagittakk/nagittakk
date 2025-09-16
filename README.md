@@ -1,17 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nagitta Kasirye-Koikanang
 =================================================================================================================================================
 
-Aspiring Data Engineer
+Data Engineer
 ----------------------
 
-As a dedicated Process Engineer with over four years of experience in process engineering and project management in the mining industry, I have developed strong skills in optimizing systems and enhancing operational efficiency. My passion for problem-solving and commitment to continuous improvement led me to explore data analytics, where I became captivated by the transformative impact of big data on society and industries. Through my involvement in digital transformation initiatives aimed at automating processes in my work environment, I gained valuable insights into how data can be leveraged to optimize operations. The era of big data presents immense opportunities for innovation, and I am fascinated by how data-driven insights can influence decision-making and unlock potential within organizations. This enthusiasm has inspired my transition into data analytics, where I aim to leverage my foundation in process engineering and project management to contribute to data-driven solutions. With a Data Science certification, I have gained strong Python programming skills and one year of practical experience in data analytics, showcased through a diverse portfolio of projects. I am actively building my portfolio with various open-source projects to enhance my skills further.
+Data Engineer with a process-engineering backbone (mining & refining). I build and maintain reliable, governed analytics on Microsoft Fabric and Power BI: data ingestion, modelling (star schemas), DAX, and secure, performant reports. Previously a Senior Process Engineer, I now blend OT/IT to optimise operations with data.
 
-* 🌍  I'm based in Johannesburg
-* 🖥️  See my portfolio at [Data Analytics Portfolio](http://nagittakk.github.io/data-analytics-portfolio/)
-* ✉️  You can contact me at [nagittak@gmail.com](mailto:nagittak@gmail.com)
-* 🧠  I'm learning Exploring cloud computing platforms and aiming to attain an MS Azure certification in Data Engineering.
-* 🤝  I'm open to collaborating on Fun and innovative projects that challenge my skills and expand my knowledge.
-* ⚡  I love producing music in my spare time and am drummer and self taugh guitarist😉.
+🌍 Based in Johannesburg
+
+🧰 Stack: Azure & Microsoft Fabric (Lakehouse, Pipelines, Dataflows Gen2), Power BI Service (semantic models, DAX, RLS, deployment pipelines), SQL, Python (pandas), Profisee MDM, Git
+
+📈 What I do: Design/maintain semantic models, orchestrate ELT/ETL, implement RLS & governance, tune DAX/performance, and ship web-only Power BI solutions for industrial environments
+
+🧪 Background: 4+ years in process engineering & project management (mining), translating plant realities into data models that decision-makers trust
+
+🎓 Data Science certification; now advancing Microsoft Fabric & Azure data engineering
+
+🖥️ Portfolio: Data & Analytics projects (Power BI, Fabric, Python)
+
+🤝 Open to collaborating on industrial analytics, ESG/operations dashboards, and data enablement
+
+⚡ I produce music in my spare time — drummer and self-taught guitarist
 
 ### Skills
 
